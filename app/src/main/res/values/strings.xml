@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrawerTest</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <array name="Books">
+        <item>java</item>
+        <item>android</item>
+    </array>
+</resources>
